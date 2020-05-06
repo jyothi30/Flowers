@@ -1,3 +1,5 @@
 roses
 sunflower
 daisy
+marigold
+lily
